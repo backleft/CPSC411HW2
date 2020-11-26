@@ -2,8 +2,9 @@
 
 ## Disclaimer for the clientSide:
 
-had a socket connection error that says that the information sent over unsafe connection is not acceptable. Was not able to fix it.
+fixed the Security Error and is working now
 
+~~had a socket connection error that says that the information sent over unsafe connection is not acceptable. Was not able to fix it.~~~
 
 ## Disclaimer for the ServerSide:
 For this to run, please change the path in the Database.swift to wherever this project was downloaded to.
