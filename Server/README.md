@@ -1,6 +1,6 @@
 # SwiftServer
 
-##Disclaimer
+## Disclaimer
 For this to run, please change the path in the Database.swift to wherever this project was downloaded to.
 
 To check where this directory is, open a terminal app and type pwd.
